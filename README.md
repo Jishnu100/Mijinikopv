@@ -1,13 +1,13 @@
 ### Hey 👋, I'm Mijinikopv
 
-Hi there, I'm **Mijiniko**, a **Github Beginner Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Some simple guys** 🚀 from Malaysia, currently, I'm a Community Team Member Telegram🏽‍♂️ [@Mijiniko](https://github.com/Mijinikopv). 
+a **Github Beginner Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Some simple guys** 🚀 from Malaysia, currently, I'm a Community Team Member Telegram🏽‍♂️ [@Mijiniko](https://github.com/Mijinikopv). 
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
 - 🌱 I’m currently learning Deep Reinforcement Learning; 
-- 🤔 My interests are with Website enviroment/Understanding, Computer vision, Reinforcement Learning, etc..;
+- 🤔 My interests are with Website enviroment/Understanding, Computer vision, Reinforcement Learning,Hacking etc..;
 - 💬 Don't Ask me about my career, I am not ready to share;
 - 📫 Please email via mijiniko@gmail.com to reach me.
 
@@ -29,4 +29,4 @@ Hi there, I'm **Mijiniko**, a **Github Beginner Expert** ( Ranked Top 1% Worldwi
 
 ![Mijiniko github stats](https://github-readme-stats.vercel.app/api?username=Mijinikopv&show_icons=true&hide_border=true)
 
-⭐️ From [Mijinikpv](https://github.com/Mijinikpv)
+⭐️ From [Mijinikopv](https://github.com/Mijinikopv)
